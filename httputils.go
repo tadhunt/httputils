@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"esplitter.com/debug"
+	"github.com/tadhunt/go-dbgutils"
 
 	"github.com/mholt/binding"
 )
